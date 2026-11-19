@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="titol_contactes">My contacts:</string>
+
+    <string name="titol_nou">New contact</string>
+    <string name="titol_editar">Edit contact</string>
+    <string name="titol_detall">Contact details</string>
+
+    <string name="label_nom">First name</string>
+    <string name="label_cognom">Last name</string>
+    <string name="label_telefon">Phone</string>
+    <string name="label_correu">Email</string>
+    <string name="label_adreca">Address</string>
+    <string name="label_naixement">Birth date</string>
+    <string name="hint_naixement">dd/mm/yyyy</string>
+
+    <string name="btn_acceptar">Accept</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="btn_tancar">Close</string>
+    <string name="btn_esborrar">Delete</string>
+
+
+    <string name="btn_edit">Edit</string>
+
+
+    <string name="error_nom_buit">The first name is required</string>
+    <string name="confirmar_esborrar_msg">Delete %1$s?</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+</resources>
